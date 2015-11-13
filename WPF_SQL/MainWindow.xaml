@@ -1,0 +1,12 @@
+﻿<Window x:Class="WPF_SQL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="145,23,0,0" TextWrapping="Wrap" Text="Hoofdmenu" VerticalAlignment="Top" Height="52" Width="207" FontSize="36" FontFamily="Aharoni"/>
+        <Button Name="btnBekijken" Content="Bekijken" HorizontalAlignment="Left" Margin="145,113,0,0" VerticalAlignment="Top" Width="207" Height="32" FontSize="22" Click="btnBekijken_Click"/>
+        <Button Name="btnReserve" Content="Reserve" HorizontalAlignment="Left" Margin="145,167,0,0" VerticalAlignment="Top" Width="207" Height="32" FontSize="22"/>
+        <Button Name="btnAfsluiten" Content="Afsluiten" HorizontalAlignment="Left" Margin="145,223,0,0" VerticalAlignment="Top" Width="207" Height="32" FontSize="22" Click="btnAfsluiten_Click"/>
+
+    </Grid>
+</Window>
