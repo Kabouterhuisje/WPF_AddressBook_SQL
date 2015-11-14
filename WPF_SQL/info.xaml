@@ -4,8 +4,9 @@
         Title="info" Height="500" Width="800">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="65*"/>
-            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition Width="705*"/>
+            <ColumnDefinition Width="70*"/>
+            <ColumnDefinition Width="17*"/>
         </Grid.ColumnDefinitions>
         <TextBlock HorizontalAlignment="Left" Margin="22,26,0,0" TextWrapping="Wrap" Text="Selecteer de juiste persoon" VerticalAlignment="Top" Width="224" FontSize="18"/>
         <ListView Name="lvPersoon" HorizontalAlignment="Left" Height="112" Margin="22,72,0,0" VerticalAlignment="Top" Width="744" Grid.ColumnSpan="2">
