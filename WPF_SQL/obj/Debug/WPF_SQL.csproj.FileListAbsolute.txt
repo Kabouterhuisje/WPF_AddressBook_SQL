@@ -26,3 +26,6 @@ C:\Users\Dennis\Documents\GitHub\WPF_AddressBook_SQL\WPF_SQL\obj\Debug\WPF_SQL_M
 C:\Users\Dennis\Documents\GitHub\WPF_AddressBook_SQL\WPF_SQL\obj\Debug\WPF_SQL.g.resources
 C:\Users\Dennis\Documents\GitHub\WPF_AddressBook_SQL\WPF_SQL\obj\Debug\WPF_SQL.Properties.Resources.resources
 C:\Users\Dennis\Documents\GitHub\WPF_AddressBook_SQL\WPF_SQL\obj\Debug\WPF_SQL.csproj.GenerateResource.Cache
+C:\Users\Dennis\Documents\GitHub\WPF_AddressBook_SQL\WPF_SQL\obj\Debug\WPF_SQL_MarkupCompile.lref
+C:\Users\Dennis\Documents\GitHub\WPF_AddressBook_SQL\WPF_SQL\bin\Debug\WPF_SQL.exe
+C:\Users\Dennis\Documents\GitHub\WPF_AddressBook_SQL\WPF_SQL\bin\Debug\WPF_SQL.pdb

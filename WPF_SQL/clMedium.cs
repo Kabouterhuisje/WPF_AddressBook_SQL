@@ -7,7 +7,7 @@ using System.Data;
 
 namespace WPF_SQL
 {
-    class clMedium
+    public class clMedium
     {
         private string vnaam, tnaam, anaam, adres, postcode, plaats, land, opmerking;
         private DateTime geboortedatum, inschrijfdatum;
